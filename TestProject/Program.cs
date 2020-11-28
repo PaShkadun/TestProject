@@ -6,7 +6,7 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            Stepa.SuckDick();
+            Stepa.SuckDick("25 cm");
         }
     }
 }

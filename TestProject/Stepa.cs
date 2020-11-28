@@ -6,9 +6,9 @@ namespace TestProject
 {
     class Stepa
     {
-        public static void SuckDick()
+        public static void SuckDick(string str)
         {
-            Console.WriteLine("Стёпа сосёт большой хуй");
+            Console.WriteLine($"Стёпа сосёт большой хуй({str})");
         }
     }
 }
